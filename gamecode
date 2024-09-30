@@ -1,5 +1,5 @@
-player1 = input("rock, paper, or scissors player 1?")
-player2 = input("rock, paper, or scissors player 2?")
+player1 = input("rock, paper, or scissors player 1? ")
+player2 = input("rock, paper, or scissors player 2? ")
 
 
 if player1 == player2:
